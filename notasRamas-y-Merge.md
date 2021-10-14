@@ -10,9 +10,9 @@
 ## Fusionar ramas  (merge) 
 
 > Primero es IMPORTANTE moderse a la rama receptora  
-> y en la rama receptora hacer el merge
+> y en la rama receptora hacer el merge  
 
-   git merge NombreRama
+    git merge NombreRama
 
 > Si no hay conflictos, se funciona para adelente  
 > FastForward
